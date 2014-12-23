@@ -1,4 +1,4 @@
 DBScan
 ======
 
-DBScan using Map Reduce
+DBScan generator
